@@ -1,6 +1,6 @@
 # Data Visualization Assignment 3 and 4 
 [Return to main page](/README.md)
-## Original Table: NEA's Fastest Growing States 
+## Original Table: NEA's Fastest Growing States   
 ![image](NEA fastest growing arts impact states.png) 
 Arts and Cultural Production Satellite Account, U.S. Bureau of Economic Analysis and National Endowment for the Arts. “ACPSA State Summary.” National Endowment for the Arts, March 19, 2019. https://www.arts.gov/sites/default/files/BEA_2019_State_Summary.pdf.  
     
