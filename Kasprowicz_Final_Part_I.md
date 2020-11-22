@@ -9,7 +9,7 @@ Next, it's time to quantify the problem. The audience will see the loss of busin
 The story pivots to the possible solution in discussion around Montana. Through the next three visualizations, the audience can see that Montana is growing faster in population that similar states and also has a faster growing arts economy. I do mention that this is, of course, correlary data, which is why I then pivot to talking about other examples of data supporting the claim that arts and culture can help grow rural economies.  
 The final set of visualizations help the reader understand the tangible impact of arts and culture on rural economies through studies and case studies collected by the National Governors Association and the NEA. These will help the audience feel hopeful and more certain about how arts and culture impact rural communities. Hopefully they may also be curious to explore more about the projets featured in this section. 
 Finally, the Call to Action provides two ways to act: support NEA funding (will link to Americans for the Arts advocacy pages because they do this work well) OR donate directly to rural arts organizations. I need to find a good link for this section (or provide a list of links). 
-#Sketches
+# Sketches
 These are obviously all very rough and created with Balsamiq just to outline the story / visualizations. I'm hoping to turn some of these into more sophisticated charts or maybe change the chart type, be more sophisticated about the design, etc. Still, it's a fairly accurate outline of what I'm thinking. 
 ![image](Wireframe for Final Project.pdf)    
 # The Data  
