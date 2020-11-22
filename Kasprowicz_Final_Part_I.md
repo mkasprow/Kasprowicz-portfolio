@@ -12,7 +12,7 @@ Finally, the Call to Action provides two ways to act: support NEA funding (will 
 #Sketches
 These are obviously all very rough and created with Balsamiq just to outline the story / visualizations. I'm hoping to turn some of these into more sophisticated charts or maybe change the chart type, be more sophisticated about the design, etc. Still, it's a fairly accurate outline of what I'm thinking. 
 ![image](Wireframe for Final Project.pdf)    
-#The Data  
+# The Data  
 The use of all the data sets are detailed in the actual sketches above. In addition to the data sets below, I'm citing specific statistics from advocacy organizations or publications (as shared in the sketches), but here's a little more information and links to the larger data sets I'm using: 
 ### U.S. Census Data: ["Percent Rural and Urban in 2010 by State and County"](https://www2.census.gov/geo/docs/reference/ua/PctUrbanRural_County.xls)
 This data helps me identify what states or areas are considered "rural," as well as helped me identify what the U.S. states were with the highest proportion of rural-dwelling residents. It also then becomes comparative data for population change and data on arts economies. It's also possible that I will use other data sets [from this page](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html).
