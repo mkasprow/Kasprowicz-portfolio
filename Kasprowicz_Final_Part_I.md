@@ -11,7 +11,7 @@ The final set of visualizations help the reader understand the tangible impact o
 Finally, the Call to Action provides two ways to act: support NEA funding (will link to Americans for the Arts advocacy pages because they do this work well) OR donate directly to rural arts organizations. I need to find a good link for this section (or provide a list of links). 
 # Sketches
 These are obviously all very rough and created with Balsamiq just to outline the story / visualizations. I'm hoping to turn some of these into more sophisticated charts or maybe change the chart type, be more sophisticated about the design, etc. Still, it's a fairly accurate outline of what I'm thinking. 
-![image](Wireframe for Final Project.pdf)    
+![image](Final_wireframe.png)    
 # The Data  
 The use of all the data sets are detailed in the actual sketches above. In addition to the data sets below, I'm citing specific statistics from advocacy organizations or publications (as shared in the sketches), but here's a little more information and links to the larger data sets I'm using: 
 ### U.S. Census Data: ["Percent Rural and Urban in 2010 by State and County"](https://www2.census.gov/geo/docs/reference/ua/PctUrbanRural_County.xls)
@@ -25,6 +25,8 @@ I'll be using data from the tables and releases published by this account for bo
 ### [National Governors Association report:"Rural Prosperity Through the Arts and Creative Sector" from January 2019](https://www.nga.org/wp-content/uploads/2019/01/NGA_RuralArtsReport.pdf)  
 All my detailed visualizations about specific impacts on rural communities, as well as my case studies, come from here. This isn't a raw data set; rather, it's a long report from which I extracted data about specific studies used to formulate these policy action recommendations for rural communities. I may end up using more than what is shown in my sketches, but this is by far the most comprehensive source for proof points of arts and culture impact on rural economies.    
 # Method and Medium  
-My plan is to use Shorthand for my final project. I have liked what I've seen from examples in class of final projects created in Shorthand, and it seems like a tool that will work well for the outline I have sketched above. As an aside, the link to the story "template" in the assignment instructions was dead, so I may adjust the outline once I'm able to view that template.   
-I plan to use Tableau for most of my visualizations, assuming the formatting capabilities will work for what I need to represent in some of my bar charts, for example. I do know I can make the unit charts I want to make using Tableau. For some of the more infographic-like representations in the latter sections of my project, I might need to use Infogram (which I've used before) or another tool that is more graphic design focused.  
+My plan is to use Shorthand for my final project. I have liked what I've seen from examples in class of final projects created in Shorthand, and it seems like a tool that will work well for the outline I have sketched above. As an aside, the link to the story "template" in the assignment instructions was dead, so I may adjust the outline once I'm able to view that template.     
+
+I plan to use Tableau for most of my visualizations, assuming the formatting capabilities will work for what I need to represent in some of my bar charts, for example. I do know I can make the unit charts I want to make using Tableau. For some of the more infographic-like representations in the latter sections of my project, I might need to use Infogram (which I've used before) or another tool that is more graphic design focused.    
+
 My intention is to have the Shorthand visualization be appropriate for my final presentation. I do not anticipate using Powerpoint slides at any time. 
