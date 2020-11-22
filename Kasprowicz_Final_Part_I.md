@@ -1,4 +1,4 @@
-##Final Project Part I Assignment for Morgan Kasprowicz  
+## Final Project Part I Assignment for Morgan Kasprowicz  
 [link to main page](/README.md)  
 # Outline
 ## Project Summary  
@@ -11,7 +11,7 @@ The final set of visualizations help the reader understand the tangible impact o
 Finally, the Call to Action provides two ways to act: support NEA funding (will link to Americans for the Arts advocacy pages because they do this work well) OR donate directly to rural arts organizations. I need to find a good link for this section (or provide a list of links). 
 #Sketches
 These are obviously all very rough and created with Balsamiq just to outline the story / visualizations. I'm hoping to turn some of these into more sophisticated charts or maybe change the chart type, be more sophisticated about the design, etc. Still, it's a fairly accurate outline of what I'm thinking. 
-![image](Wireframe for Final Project.pdf)  
+![image](Wireframe for Final Project.pdf)    
 #The Data  
 The use of all the data sets are detailed in the actual sketches above. In addition to the data sets below, I'm citing specific statistics from advocacy organizations or publications (as shared in the sketches), but here's a little more information and links to the larger data sets I'm using: 
 ### U.S. Census Data: ["Percent Rural and Urban in 2010 by State and County"](https://www2.census.gov/geo/docs/reference/ua/PctUrbanRural_County.xls)
