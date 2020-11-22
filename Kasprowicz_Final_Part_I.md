@@ -5,12 +5,17 @@
 Arts and culture are a viable way to rebuild rural economies that have suffered lost of business and talent over the past few decades. Supporting government funding of the arts or donating to rural arts organizations directly is a tangible way that anyone can support this process. 
 ## Project Structure   
 My hope is that the audience will first understand how big the proportion of rural land / rural people really are. Even I, a rural-raised person, had no idea that 97% of American land was rural; nor do I think I even knew that 20% of people are. That's a pretty large proportion. Showing these proportions in much nicer-looking tree maps (or actually I'm hoping unit charts) will help the audience root for our rural community "character."   
+
 Next, it's time to quantify the problem. The audience will see the loss of business and prime-age workers in the past few decades. They'll also be able to see that rural populations are growing more slowly. There's more data that I can add to this section if these three visualizations don't have enough impact, as well, but I was trying to keep it simple and clear.  
+
 The story pivots to the possible solution in discussion around Montana. Through the next three visualizations, the audience can see that Montana is growing faster in population that similar states and also has a faster growing arts economy. I do mention that this is, of course, correlary data, which is why I then pivot to talking about other examples of data supporting the claim that arts and culture can help grow rural economies.  
+
 The final set of visualizations help the reader understand the tangible impact of arts and culture on rural economies through studies and case studies collected by the National Governors Association and the NEA. These will help the audience feel hopeful and more certain about how arts and culture impact rural communities. Hopefully they may also be curious to explore more about the projets featured in this section.  
+
 Finally, the Call to Action provides two ways to act: support NEA funding (will link to Americans for the Arts advocacy pages because they do this work well) OR donate directly to rural arts organizations. I need to find a good link for this section (or provide a list of links). 
 # Sketches
 These are obviously all very rough and created with Balsamiq just to outline the story / visualizations. I'm hoping to turn some of these into more sophisticated charts or maybe change the chart type, be more sophisticated about the design, etc. Still, it's a fairly accurate outline of what I'm thinking.   
+  
 ![image](Final_wireframe.png)    
 # The Data  
 The use of all the data sets are detailed in the actual sketches above. In addition to the data sets below, I'm citing specific statistics from advocacy organizations or publications (as shared in the sketches), but here's a little more information and links to the larger data sets I'm using: 
