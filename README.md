@@ -7,4 +7,5 @@ Policy / advocacy as well as grant narrative writing are both improved by accura
 # Portfolio
 [link to assignment 2](/dataviz2.md)  
 [link to assignment 3](/dataviz3.md)  
-[link to Final Project Part I](/Kasprowicz_Final_Part_I.md)
+[link to Final Project Part I](/Kasprowicz_Final_Part_I.md)  
+[link to Final Project Part II] (/Final_PartII.md) 
