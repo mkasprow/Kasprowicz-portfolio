@@ -17,11 +17,11 @@ In addition to addressing what is "confusing," deciding what I prioritize for ch
 ### Interview Script  
 Hello and thank you for being willing to help me with user research for my Telling Stories with Data project. The purpose of my project is to demonstrate the promising potential for investments in arts and culture to help grow rural economies. I’m looking for feedback on what works, what is unclear, and what I should prioritize to change or add.  
 Questions:  
-•	Is the overall flow of information logical and clear? Why or why not?
-•	Are the data visualizations supporting the claims easy to understand? Why or why not?
-•	What questions, if any, come up as you read through?
-•	Were there any parts that were confusing?
-•	Did you feel compelled to take action at the end of the story?
+•	Is the overall flow of information logical and clear? Why or why not?  
+•	Are the data visualizations supporting the claims easy to understand? Why or why not?  
+•	What questions, if any, come up as you read through?  
+•	Were there any parts that were confusing?  
+•	Did you feel compelled to take action at the end of the story?  
 ## Interview Findings  
    
 ## Planned Changes based on Feedback   
