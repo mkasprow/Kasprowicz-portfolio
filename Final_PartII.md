@@ -11,7 +11,7 @@ The target audience I hope to reach falls primarily into two groups: people who 
 ### Approach to choosing interviewees
 Because my audience includes two separate groups of people, I wanted to make sure both groups were represented. For my arts advocate / philanthropist audience, I looked to two of my Masters of Arts Management colleagues. Because we regularly interact with and use similar data to what will be presented in my project, I trust these individuals to be able to pick out what is useful and compelling, what do they need to see more of, and what does not resonate. For my rural audience, I used two people from two different rural areas who care about economic development but aren’t themselves connected to the arts.  
 ### Goals and Questions
-The following were my goals for my user research, as well as how the questions I created for my script connected to those goals: 
+The following were my goals for my user research, as well as how the questions I created for my script connected to those goals:  
 ![image](goals.questions.png)  
 In addition to addressing what is "confusing," deciding what I prioritize for change will be determined by the aggregation of the feedback  
 ### Interview Script  
