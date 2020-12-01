@@ -4,7 +4,7 @@
 For my Part I, I inadvertently went a bit too far and drafted Wireframes for my project. I did, however, want to start building out in Shorthand so that I could figure out how the elements I'd imagined in Balsalmiq would transfer. I also wanted to spend some time drafting data visualizations to see what the best tools would be. 
 ### Balsalmiq Wireframes 
 ![image](Final_wireframe2.png)  
-### [Link to Shorthand Version](https://preview.shorthand.com/ufDDnhlsmCCFqVvB)  
+### [Link to Shorthand Version with High Res Visualizations](https://preview.shorthand.com/ufDDnhlsmCCFqVvB)  
 ## User Research  
 ### Target Audience  
 The target audience I hope to reach falls primarily into two groups: people who support the arts, but maybe don’t know the extent to which they can affect change in rural communities OR people who reside in rural communities and don’t know how the arts could support economic growth. The first group may include arts advocates or philanthropists. The second group doesn’t even need to know anything in particular about the arts – just be connected to rural communities.   
