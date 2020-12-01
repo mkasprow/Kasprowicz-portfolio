@@ -26,7 +26,7 @@ Questions:
 •	Did you feel compelled to take action at the end of the story?  
 ## Interview Findings  
    Most of the feedback was positive, in that most people thought the story flowed well, that the visualizations made sense, and that the call to action was appropriate. Here, however, is an aggregation of the more constructive feedback I recieved that will guide my changes this week:  
-![image](User feedback.png)    
+![image](user_feedback.png)    
 ## Planned Changes based on Feedback   
 As shared in the table above, I have two story priority changes and two priority data viz changes.   
 
