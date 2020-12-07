@@ -5,7 +5,8 @@ My name is Morgan Kasprowicz (she / her / hers), and I'm a second year Master of
 # What I hope to learn
 Policy / advocacy as well as grant narrative writing are both improved by accurately and skillfully telling stories with data. I've done a fair amount of research and reporting, but I imagine the skills I'll learn in this class will help me do that in a more visually compelling way. I'm looking forward to expanding my vocabulary for data visualizations. I also am terrified of anything to do with coding, so this is a great place to dip in my toes just a little bit I suppose. "Do things that scare you," right? The fact that I'm on Github in and of itself is progress for this kid with a bachelors degree in music. 
 # Portfolio
-[link to assignment 2](/dataviz2.md)  
-[link to assignment 3](/dataviz3.md)  
-[link to Final Project Part I](/Kasprowicz_Final_Part_I.md)  
-[link to Final Project Part II](/Final_PartII.md) 
+[Assignment 2](/dataviz2.md)  
+[Assignment 3](/dataviz3.md)  
+[Final Project Part I](/Kasprowicz_Final_Part_I.md)  
+[Final Project Part II](/Final_PartII.md) 
+[Final Project Part III with Shorthand Story Link](/Final_Part_III.md)
