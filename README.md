@@ -8,5 +8,5 @@ Policy / advocacy as well as grant narrative writing are both improved by accura
 [Assignment 2](/dataviz2.md)  
 [Assignment 3](/dataviz3.md)  
 [Final Project Part I](/Kasprowicz_Final_Part_I.md)  
-[Final Project Part II](/Final_PartII.md) 
+[Final Project Part II](/Final_PartII.md)  
 [Final Project Part III with Shorthand Story Link](/Final_Part_III.md)
