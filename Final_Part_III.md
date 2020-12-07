@@ -3,8 +3,8 @@
    
    
 # Links to Final Project Previous Assignments 
-##[Link to Part I](/Kasprowicz_Final_Part_I.md)  
-##[Link to Part II](/Final_PartII.md)  
+## [Link to Part I](/Kasprowicz_Final_Part_I.md)  
+## [Link to Part II](/Final_PartII.md)  
 
 # Changes and Updates Since Part II  
   
@@ -15,12 +15,11 @@ For improving the story elements, I primarily focused on using text - both quote
 To strengthen my data visualizations, I prioritized the resizing of my three slope graphs and some tweaking for clarity of my Infogram charts and callout stats. The three slope graphs about rural economic crises were all full width, which made the slopes barely noticeable. They are not half the width they once were, and the slopes are a lot easier to see. I also was able to make the scatter plot of the Montana population growth vs. other rural states larger. I had been told that one was previously hard to read, and after testing it with a few more people, it appears the changes have made this chart readable. Finally, I had gotten feedback that a few of my Infogram pieces, specifically the NEA 9-to-1 return graphic and the Paducah Kentucky investment impact graphic, were unclear. I used additional feedback from class to change the NEA 9-to-1 graphic to two lines rather than one continuous line, and I changed the Paducah investment impact to a similar callout format as the other case study. They now are more clear and more unified over all.   
 
 # [Link to Final Shorthand Story](https://carnegiemellon.shorthandstories.com/boosting-rural-economies-through-arts-and-culture/index.html)  
-# Full Bibliogrpahy  
+# Full Bibliography  
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
 </head>
 <body>
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
