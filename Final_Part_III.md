@@ -16,7 +16,7 @@ To strengthen my data visualizations, I prioritized the resizing of my three slo
 
 # [Link to Final Shorthand Story](https://carnegiemellon.shorthandstories.com/boosting-rural-economies-through-arts-and-culture/index.html)  
 # Full Bibliography  
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
